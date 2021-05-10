@@ -1,0 +1,59 @@
+.box{
+    width: 200px;
+    height: 30px;
+    font-size:20px ;
+}
+
+.font{
+    font-size: 20px;
+   height: 20px;
+    margin-left: 20px;
+}
+
+.check{
+    width:15px;
+    height:15px;
+   
+}
+
+.radio{
+    width: 20px;
+    height:15px;
+    
+}
+
+#td{
+    border: 1px solid black;
+    width:140px;
+    height:70px;
+    font-weight: bold;
+    font-size:20px ;
+    text-align: center;
+}
+
+.tdx{
+    border: 1px solid black;
+    width:50px;
+    height:70px;
+    font-weight: bold;
+    font-size:20px ;
+    text-align: center;
+}
+
+.cell{
+    border: 1px solid black;
+    height:70px;
+    font-size:20px;
+    text-align: center;
+}
+
+#reset{
+    border: 1px solid black;
+    border-radius: 1%;
+    margin:20px;
+    background:linear-gradient(lightblue,rgb(206, 122, 122));
+}
+
+.mytable{
+    background: linear-gradient(lightblue,rgb(206, 122, 122));
+}
